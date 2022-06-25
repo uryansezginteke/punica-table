@@ -1,6 +1,6 @@
 {
   "name": "@punica/table-controller",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Table Controller",
   "author": {
     "name": "Uryan Sezgin TEKE",
@@ -30,6 +30,6 @@
     "path": "../../scripts/packages"
   },
   "dependencies": {
-    "@punica/table-model": "^1.0.0"
+    "@punica/table-model": "^1.0.1"
   }
 }

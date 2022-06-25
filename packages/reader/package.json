@@ -1,6 +1,6 @@
 {
   "name": "@punica/table-reader",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Table Reader",
   "author": {
     "name": "Uryan Sezgin TEKE",
@@ -30,9 +30,9 @@
     "path": "../../scripts/packages"
   },
   "dependencies": {
-    "@punica/table-model": "^1.0.0"
+    "@punica/table-model": "^1.0.1"
   },
   "devDependencies": {
-    "@punica/table-example": "^1.0.0"
+    "@punica/table-example": "^1.0.1"
   }
 }
