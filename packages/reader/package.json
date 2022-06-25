@@ -1,0 +1,38 @@
+{
+  "name": "@punica/table-reader",
+  "version": "1.0.0",
+  "description": "Table Reader",
+  "author": {
+    "name": "Uryan Sezgin TEKE",
+    "email": "uryan.sezgin.teke@gmail.com",
+    "url": "https://github.com/uryansezginteke"
+  },
+  "private": false,
+  "license": "MIT",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "publishConfig": {
+    "access": "restricted"
+  },
+  "repository": {
+    "url": "git@github.com:uryansezginteke/punica-table.git"
+  },
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "scripty",
+    "clean": "scripty",
+    "lint": "scripty",
+    "compile": "scripty"
+  },
+  "scripty": {
+    "path": "../../scripts/packages"
+  },
+  "dependencies": {
+    "@punica/table-model": "^1.0.0"
+  },
+  "devDependencies": {
+    "@punica/table-example": "^1.0.0"
+  }
+}
